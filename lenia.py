@@ -8,7 +8,7 @@
 
 
 import numpy as np
-from numpy.fft import fft3, ifft2, fftshift
+from numpy.fft import fft3, ifft2, 
 import matplotlib.pyplot as plt
 np.set_printoptions(precision=2, suppress=True)
 
